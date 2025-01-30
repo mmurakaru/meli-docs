@@ -25,12 +25,7 @@
     "name": "Dashboard",
     "url": "https://meli-ai.com/dashboard"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
+  "tabs": [],
   "anchors": [
     {
       "name": "Documentation",
